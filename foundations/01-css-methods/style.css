@@ -1,0 +1,13 @@
+body
+{
+    color:white;
+    font-family: "Times New Roman", serif;
+}
+
+div{
+    background-color:red;
+    font-size:2rem;
+    margin:auto;
+    text-align:center;
+    font-weight: bold;
+}
